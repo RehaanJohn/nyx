@@ -6,7 +6,7 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "dev": "pnpm -F web dev",
+    "dev": "pnpm -F nyx-web dev",
     "build": "pnpm -r build"
   }
 }
